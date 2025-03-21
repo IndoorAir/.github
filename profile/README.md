@@ -12,5 +12,5 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 - NERC/SPF grant (NE/V002414/1) "Air Pollution Solutions for Vulnerable Groups (CleanAir4V)"
 
 ## Publications
-- Mazzeo, Pfrang & Nasir, Environ. Sci.: Atmos., 2025,5, 151-170
+- Mazzeo, Pfrang & Nasir, Environ. Sci.: Atmos., 2025,5, 151-170: https://doi.org/10.1039/D4EA00121D; journal front cover: https://doi.org/10.1039/D5EA90005K
 - 
