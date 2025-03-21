@@ -8,7 +8,7 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 - Chem-LES model
 
 ## Funding
-- MetOffice/SPF grant "Indoor Air Quality Emissions and Modelling System (IAQ-EMS)
+- MetOffice/SPF grant "Indoor Air Quality Emissions and Modelling System (IAQ-EMS)"
 - NERC/SPF grant (NE/V002414/1) "Air Pollution Solutions for Vulnerable Groups (CleanAir4V)"
 
 ## Publications
