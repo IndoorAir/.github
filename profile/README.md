@@ -4,7 +4,7 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 ## Conceptual Framework:  
 ![Screenshot 2025-03-22 at 14 36 15](https://github.com/user-attachments/assets/423e2f70-b802-40d2-b77b-a85a20c8b6ad)
 
-## Key Outputs Include:
+## Key Outputs:
 ![Screenshot 2025-03-22 at 14 36 42](https://github.com/user-attachments/assets/ea050730-9493-4ef5-a29a-a01dd9792716)
 
 ## Freely Available Resources:
