@@ -17,7 +17,7 @@ Freely available resources:
 
 ## Publications
 - Mazzeo, Pfrang & Nasir, Environ. Sci.: Atmos., 2025,5, 151-170: https://doi.org/10.1039/D4EA00121D;
-  Associated journal front cover: https://doi.org/10.1039/D5EA90005K
--
--
-- 
+- Journal front cover associated with Mazzeo et al., 2025: https://doi.org/10.1039/D5EA90005K
+- TBC: watch this space!
+
+  
