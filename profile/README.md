@@ -3,7 +3,8 @@
 The IAQ-EMS project aims to improve our understanding of indoor air pollutants, their formation and health effects. The project is hosted at the University of Birmingham (UK). 
 ## Conceptual Framework:  
 ![Screenshot 2025-03-22 at 14 36 15](https://github.com/user-attachments/assets/423e2f70-b802-40d2-b77b-a85a20c8b6ad)
-Key outputs include:
+
+## Key Outputs include:
 ![Screenshot 2025-03-22 at 14 36 42](https://github.com/user-attachments/assets/ea050730-9493-4ef5-a29a-a01dd9792716)
 
 ## Freely Available Resources:
