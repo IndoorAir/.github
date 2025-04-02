@@ -8,9 +8,9 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 ![Screenshot 2025-03-22 at 14 36 42](https://github.com/user-attachments/assets/ea050730-9493-4ef5-a29a-a01dd9792716)
 
 ## Resources:
-- Indoor Air Pollutants Inventory (InAPI) Tool: https://doi.org/10.25500/edata.bham.00001221
-- IAQ-EMS - Indoor Air Pollutants database: https://doi.org/10.25500/edata.bham.00000955
-- Indoor Air Quality Emissions & Modelling System (IAQ-EMS) field measurement data: https://edata.bham.ac.uk/1264/
+- Indoor Air Pollutants Inventory (InAPI) Tool: https://edata.bham.ac.uk/1221/
+- IAQ-EMS - Indoor Air Pollutants database: https://edata.bham.ac.uk/955/
+- IAQ-EMS - Field Measurement Data: https://edata.bham.ac.uk/1264/
 - MultiBox-Flexible Model (MBM-Flex): https://github.com/IndoorAir/MBM-Flex
 - ChemFlow3D model: TBC
 
