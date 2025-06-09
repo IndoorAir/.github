@@ -19,8 +19,9 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 - NERC/SPF grant (NE/V002414/1) "Air Pollution Solutions for Vulnerable Groups (CleanAir4V)"
 
 ## Publications:
-- Mazzeo, Pfrang & Nasir, Environ. Sci.: Atmos., 2025,5, 151-170: https://doi.org/10.1039/D4EA00121D
+- Indoor Inventory Concept: Andrea Mazzeo, Christian Pfrang & Zaheer Nasir, Environ. Sci.: Atmos., 2025,5, 151-170: https://doi.org/10.1039/D4EA00121D
 - Journal Front Cover associated with Mazzeo et al., 2025: https://doi.org/10.1039/D5EA90005K
+- ChemFlow3D Model Application to Kitchen Scenario: Zhen Liu, Christian Pfrang, Roberto Sommariva, James Brean, Yizhou Su, William Bloss & Bruño Fraga, Physics of Fluids, 2025, 37, 5, 053336, https://doi.org/10.1063/5.0270416 
 - TBC: watch this space!
 
   
