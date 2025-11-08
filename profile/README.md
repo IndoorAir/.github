@@ -29,9 +29,9 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
   
 - Indoor Inventory Tool: InAPI(v1.0) description: Andrea Mazzeo, Christian Pfrang & Zaheer Nasir, https://egusphere.copernicus.org/preprints/2025/egusphere-2025-783/egusphere-2025-783.pdf
 - Mazzeo, A., Nasir, Z. A., & Pfrang, C. (2023). IAQ-EMS Indoor Air pollutants database:
-https://doi.org/https://doi.org/10.5281/zenodo.15630355
+  https://doi.org/10.5281/zenodo.15630355
 - Mazzeo, A., Nasir, Z. A., & Pfrang, C. (2025). The Indoor Air Pollutants Inventory Tool (InAPI) v1.0
-(Version 1.0). https://doi.org/https://doi.org/10.5281/zenodo.15630454
+(Version 1.0). https://doi.org/10.5281/zenodo.15630454
 
 - ChemFlow3D Model Application to Kitchen Scenario: Zhen Liu, Christian Pfrang, Roberto Sommariva, James Brean, Yizhou Su, William Bloss & Bruño Fraga, Physics of Fluids, 2025, 37, 5, 053336, https://doi.org/10.1063/5.0270416 
 
