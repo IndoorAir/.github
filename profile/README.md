@@ -8,6 +8,11 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 ![Screenshot 2025-03-22 at 14 36 42](https://github.com/user-attachments/assets/ea050730-9493-4ef5-a29a-a01dd9792716)
 
 ## Resources:
+- Youtube channel with explanatory videos (released on World Ventilation Day 2025): https://www.youtube.com/channel/UCUntj00r5SyH24BwKK5AM7g
+- Video with project overview (5 min): https://www.youtube.com/watch?v=rU21Qn3eMKs
+- Video with project overview and explanation of modelling tools (9 min): https://www.youtube.com/watch?v=Y8fOABDh9W0&t=336s
+- Video with project overview and explanation of indoor inventory tool (9 min): https://www.youtube.com/watch?v=Y8fOABDh9W0&t=336s
+  
 - Indoor Air Pollutants Inventory (InAPI) Tool: https://edata.bham.ac.uk/1221/
 - IAQ-EMS - Indoor Air Pollutants database: https://edata.bham.ac.uk/955/
 - IAQ-EMS - Field Measurement Data: https://edata.bham.ac.uk/1264/
@@ -21,7 +26,14 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 ## Publications:
 - Indoor Inventory Concept: Andrea Mazzeo, Christian Pfrang & Zaheer Nasir, Environ. Sci.: Atmos., 2025,5, 151-170: https://doi.org/10.1039/D4EA00121D
 - Journal Front Cover associated with Mazzeo et al., 2025: https://doi.org/10.1039/D5EA90005K
+  
+- Indoor Inventory Tool: InAPI(v1.0) description: Andrea Mazzeo, Christian Pfrang & Zaheer Nasir, https://egusphere.copernicus.org/preprints/2025/egusphere-2025-783/egusphere-2025-783.pdf
+- Mazzeo, A., Nasir, Z. A., & Pfrang, C. (2023). Indoor Air Quality Emissions & Modelling System (IAQ-
+EMS) - Indoor Air pollutants database:
+https://doi.org/https://doi.org/10.5281/zenodo.15630355
+Mazzeo, A., Nasir, Z. A., & Pfrang, C. (2025). The Indoor Air Pollutants Inventory Tool (InAPI) v1.0
+(Version 1.0). https://doi.org/https://doi.org/10.5281/zenodo.15630454
+
 - ChemFlow3D Model Application to Kitchen Scenario: Zhen Liu, Christian Pfrang, Roberto Sommariva, James Brean, Yizhou Su, William Bloss & Bruño Fraga, Physics of Fluids, 2025, 37, 5, 053336, https://doi.org/10.1063/5.0270416 
-- TBC: watch this space!
 
   
