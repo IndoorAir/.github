@@ -27,7 +27,7 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 - Indoor Inventory Concept: Andrea Mazzeo, Christian Pfrang & Zaheer Nasir, Environ. Sci.: Atmos., 2025,5, 151-170: https://doi.org/10.1039/D4EA00121D
 - Journal Front Cover associated with Mazzeo et al., 2025: https://doi.org/10.1039/D5EA90005K
   
-- Indoor Inventory Tool: InAPI(v1.0) description: Andrea Mazzeo, Christian Pfrang & Zaheer Nasir, https://egusphere.copernicus.org/preprints/2025/egusphere-2025-783/egusphere-2025-783.pdf
+- Indoor Inventory Tool: InAPI (v1.0) description (2025): Andrea Mazzeo, Christian Pfrang & Zaheer Nasir, https://egusphere.copernicus.org/preprints/2025/egusphere-2025-783/egusphere-2025-783.pdf
 - Mazzeo, A., Nasir, Z. A., & Pfrang, C. (2023). IAQ-EMS Indoor Air pollutants database:
   https://doi.org/10.5281/zenodo.15630355
 - Mazzeo, A., Nasir, Z. A., & Pfrang, C. (2025). The Indoor Air Pollutants Inventory Tool (InAPI) v1.0
