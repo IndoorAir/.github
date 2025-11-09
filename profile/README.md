@@ -9,6 +9,7 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 
 ## Resources:
 - Youtube channel with explanatory videos (released on World Ventilation Day 2025): https://www.youtube.com/channel/UCUntj00r5SyH24BwKK5AM7g
+  ![IAQEMS_videos](https://github.com/user-attachments/assets/1b7f39fe-4f0d-47a3-a4f3-bccea814838a)
 - Video with project overview (5 min): https://www.youtube.com/watch?v=rU21Qn3eMKs
 - Video with project overview and explanation of modelling tools (9 min): https://www.youtube.com/watch?v=Y8fOABDh9W0&t=336s
 - Video with project overview and explanation of indoor inventory tool (9 min): https://www.youtube.com/watch?v=Y8fOABDh9W0&t=336s
