@@ -38,7 +38,7 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
   
 - SBM-Flex Model: TBC
   
-- Associated work:
+Associated work:
 - Su et al., Results in Engineering, 2026. https://authors.elsevier.com/sd/article/S2590-1230(26)01598-7
 - Maung et al., BMJ Open Respiratory Research, 2026. https://bmjopenrespres.bmj.com/content/13/1/e003807
 - Tang et al., Environmental Science: Advances, 2026. https://pubs.rsc.org/en/Content/ArticleLanding/2026/VA/D5VA00442J
