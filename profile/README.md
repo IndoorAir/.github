@@ -36,9 +36,9 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
 
 - ChemFlow3D Model Application to Kitchen Scenario: Zhen Liu, Christian Pfrang, Roberto Sommariva, James Brean, Yizhou Su, William Bloss & Bruño Fraga, Physics of Fluids, 2025, 37, 5, 053336, https://doi.org/10.1063/5.0270416
   
-- SBM-Flex Model: TBC
+- SBM-Flex Model: Su et al., Environmental Science: Processes & Impacts, 2026 (TBC)
   
-Associated work:
+Associated indoor air work:
 - Su et al., Results in Engineering, 2026. https://authors.elsevier.com/sd/article/S2590-1230(26)01598-7
 - Maung et al., BMJ Open Respiratory Research, 2026. https://bmjopenrespres.bmj.com/content/13/1/e003807
 - Tang et al., Environmental Science: Advances, 2026. https://pubs.rsc.org/en/Content/ArticleLanding/2026/VA/D5VA00442J
