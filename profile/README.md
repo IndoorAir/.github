@@ -40,7 +40,7 @@ The IAQ-EMS project aims to improve our understanding of indoor air pollutants, 
   
 Associated further indoor air work:
 - Kumar et al., Eco-Environment & Health, 2026. https://doi.org/10.1016/j.eehl.2026.100289
-- Holt et al., Indoor Air, 2026. https://doi.org/10.1155/ina/9607097Digital Object Identifier (DOI)
+- Holt et al., Indoor Air, 2026. https://doi.org/10.1155/ina/9607097
 - Su et al., Results in Engineering, 2026. https://authors.elsevier.com/sd/article/S2590-1230(26)01598-7
 - Maung et al., BMJ Open Respiratory Research, 2026. https://bmjopenrespres.bmj.com/content/13/1/e003807
 - Tang et al., Environmental Science: Advances, 2026. https://pubs.rsc.org/en/Content/ArticleLanding/2026/VA/D5VA00442J
